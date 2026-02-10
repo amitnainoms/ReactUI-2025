@@ -1,4 +1,5 @@
 # Dashboard (React + Vite)-Wow feeling Natural
+# This is awesome way to resolve things.
 
 A small demo admin/dashboard app built with React, Vite and React Bootstrap. It includes simple localStorage-based authentication (register/login), user management views and a few sample pages to demonstrate routing and UI components.
 
